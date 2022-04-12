@@ -1,0 +1,9 @@
+existente:
+  mail: compasso@teste.com
+  password: compasso123
+sem_cadastro:
+  email: semcadastro@teste.com
+  password: 123
+existente_senha_invalida:
+  email: compasso@teste.com
+  password: 12345
